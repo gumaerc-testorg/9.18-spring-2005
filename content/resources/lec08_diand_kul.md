@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec08_diand_kul.pdf
 uid: b5f882fc-864b-5306-1ad3-2bb794996e96

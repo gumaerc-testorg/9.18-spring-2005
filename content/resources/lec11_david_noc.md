@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec11_david_noc.pdf
 uid: e0cbca53-78cb-d144-2146-9a05b72549e8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec11_walt_shen.pdf
 uid: 01074db7-73b5-6595-000e-5f966715d0b0

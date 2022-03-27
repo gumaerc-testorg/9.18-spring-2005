@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec24_fial_niel.pdf
 uid: 69485fc6-1807-1d27-a697-d1be914241bb

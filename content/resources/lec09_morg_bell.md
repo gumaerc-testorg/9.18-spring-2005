@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec09_morg_bell.pdf
 uid: 14408491-eb2e-c3ab-8ec0-738ee2721372

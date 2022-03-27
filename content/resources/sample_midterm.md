@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8cbc6f49-4cc6-b2e2-9d2d-618d49a1cdb4
 resourcetype: Document
 title: sample_midterm.pdf
 uid: 350d1fd8-f967-080a-f4ff-842baf936ad7

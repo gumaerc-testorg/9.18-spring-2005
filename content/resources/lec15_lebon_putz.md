@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0620498c-faec-efb4-9635-e7cda75302b4
 resourcetype: Document
 title: lec15_lebon_putz.pdf
 uid: 49eb03ec-dbcb-1744-e9b5-152ad432aaf7
