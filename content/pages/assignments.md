@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides examples of student presentations for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ STUDENT PRESENTATIONS
 Kulesa, P., M. Bronner - Fraser, and S. Fraser. "In Ovo Time- Lapse Analysis After Dorsal Neural Tube Ablation Shows Rerouting of Chick Hindbrain Neural Crest." _Development_ 127 (2002): 2843-2852.
 {{< tdclose >}}
 {{< tdopen >}}
-Diandra Lucia ([PDF]({{< baseurl >}}/resources/lec08_diand_kul))
+Diandra Lucia ({{% resource_link b5f882fc-864b-5306-1ad3-2bb794996e96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,9 +54,9 @@ Belliveau, M. J., and C. L. Cepko. "Extrinsic and Intrinsic Factors Control the 
 {{< tdopen >}}
 
 
-Lena Khibnik ([PDF]({{< baseurl >}}/resources/lec09_lena_cheng))  
+Lena Khibnik ({{% resource_link dbe97bef-2332-040f-058a-b4a022452530 "PDF" %}})  
   
-Bo Morgan ([PDF]({{< baseurl >}}/resources/lec09_morg_bell))
+Bo Morgan ({{% resource_link 14408491-eb2e-c3ab-8ec0-738ee2721372 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -71,7 +72,7 @@ Shen, Q., W. Zhong, Y. N. Jan, and S. Temple. "Asymmetric Numb Distribution is C
 {{< tdopen >}}
 
 
-Tony Walters ([PDF]({{< baseurl >}}/resources/lec11_walt_shen))
+Tony Walters ({{% resource_link 01074db7-73b5-6595-000e-5f966715d0b0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -85,7 +86,7 @@ Tony Walters ([PDF]({{< baseurl >}}/resources/lec11_walt_shen))
 Piper, M., S. Salih, C. Weinl, C. E. Holt, and W. A. Harris. "Endocytosis -Dependent Desensitization and Protein Synthesis - Dependent Resensitization in Retinal Growth Cone Adaptation." _Nature_ _Neuroscience_ (January 9, 2005).
 {{< tdclose >}}
 {{< tdopen >}}
-Tom Davidson ([PDF]({{< baseurl >}}/resources/lec13_david_pier))
+Tom Davidson ({{% resource_link 84caecb9-9891-0758-309c-60de4ea4ac28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,11 +106,11 @@ Blaschke, A. J., K. Staley, et al. "Widespread Programmed Cell Death in Prolifer
 {{< tdopen >}}
 
 
-Lauren LeBon ([PDF]({{< baseurl >}}/resources/lec15_lebon_putz))  
+Lauren LeBon ({{% resource_link 49eb03ec-dbcb-1744-e9b5-152ad432aaf7 "PDF" %}})  
   
  
 
-Jonathan Reinharth ([PDF]({{< baseurl >}}/resources/lec15_rein_blas))
+Jonathan Reinharth ({{% resource_link 0ec61c05-ac43-2fe4-3788-603eab84d2da "PDF" %}})
 
 
 {{< tdclose >}}
