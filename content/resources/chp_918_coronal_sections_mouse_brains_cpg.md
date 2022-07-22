@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_918_Coronal_sections_mouse_brains_CPG.jpg
 uid: 1c3d8269-4fbd-8a71-6c61-d87bc2b967dc
 ---
 Coronal sections of brain depicting cortical plasticity gene expression during development. (Corey C. Harwell)
-
