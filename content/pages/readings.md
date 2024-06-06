@@ -534,7 +534,7 @@ Kang, H., and E. M. Schuman. "Long- Lasting Neurotrophin - Induced Enhancement o
 
 Horch, H. W., and L. C. Katz. "BDNF Release from Single Cells Elicits Local Dendritic Growth in Nearby Neurons." _Nature Neuroscience_ 5, no. 11 (2002): 1177-84.
 
-{{% resource_link "28557cfd-28dd-4cbf-acd4-89e9b1f51569" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Levi-Motalcini, R. "NGF: An Uncharted Route." In {{% resource_link "28557cfd-28dd-4cbf-acd4-89e9b1f51569" "_The Neurosciences: Paths of Discovery_" %}}. Edited by Frederic Worden, Judith P. Swazey and George Adelman. Cambridge, MA: MIT Press, 1975. ISBN: 9780262730426.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730426) Levi-Motalcini, R. "NGF: An Uncharted Route." In [_The Neurosciences: Paths of Discovery_](https://mitpress.mit.edu/9780262730426). Edited by Frederic Worden, Judith P. Swazey and George Adelman. Cambridge, MA: MIT Press, 1975. ISBN: 9780262730426.
 
 
 {{< tdclose >}}
