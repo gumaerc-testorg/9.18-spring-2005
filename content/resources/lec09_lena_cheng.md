@@ -3,7 +3,7 @@ content_type: resource
 description: This presentation answers molecular specification of neurotransmitter
   types in different neuronal populations, Choice of excitatory vs. inhibitory fate,
   Is there a ?master switch? that makes a cell fate choice?
-file: /ol-ocw-studio-app/courses/9-18-developmental-neurobiology-spring-2005/dbe97bef2332040f058ab4a022452530_lec09_lena_cheng.pdf
+file: /courses/9-18-developmental-neurobiology-spring-2005/dbe97bef2332040f058ab4a022452530_lec09_lena_cheng.pdf
 file_size: 751012
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This presentation explains the Cortical Migration Review and its experimental
   approach and findings.
-file: /ol-ocw-studio-app/courses/9-18-developmental-neurobiology-spring-2005/e0cbca5378cbd14421469a05b72549e8_lec11_david_noc.pdf
+file: /courses/9-18-developmental-neurobiology-spring-2005/e0cbca5378cbd14421469a05b72549e8_lec11_david_noc.pdf
 file_size: 2168644
 file_type: application/pdf
 learning_resource_types:
