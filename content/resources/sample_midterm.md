@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A sample midterm exam.
-file: /ol-ocw-studio-app/courses/9-18-developmental-neurobiology-spring-2005/350d1fd8f967080af4ff842baf936ad7_sample_midterm.pdf
+file: /courses/9-18-developmental-neurobiology-spring-2005/350d1fd8f967080af4ff842baf936ad7_sample_midterm.pdf
 file_size: 51109
 file_type: application/pdf
 learning_resource_types: []
