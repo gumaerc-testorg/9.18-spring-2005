@@ -2,7 +2,7 @@
 content_type: resource
 description: This presentation explains does axonal pathfinding involve adaptation?
   If so, how is this adaptation accomplished?
-file: /ol-ocw-studio-app/courses/9-18-developmental-neurobiology-spring-2005/84caecb998910758309c60de4ea4ac28_lec13_david_pier.pdf
+file: /courses/9-18-developmental-neurobiology-spring-2005/84caecb998910758309c60de4ea4ac28_lec13_david_pier.pdf
 file_size: 365985
 file_type: application/pdf
 learning_resource_types:
