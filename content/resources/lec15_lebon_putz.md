@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This presentation gives the experimental strategy and discusses cpg15.
-file: /courses/9-18-developmental-neurobiology-spring-2005/49eb03ecdbcb1744e9b5152ad432aaf7_lec15_lebon_putz.pdf
+file: /ol-ocw-studio-app/courses/9-18-developmental-neurobiology-spring-2005/49eb03ecdbcb1744e9b5152ad432aaf7_lec15_lebon_putz.pdf
 file_size: 295080
 file_type: application/pdf
 learning_resource_types:

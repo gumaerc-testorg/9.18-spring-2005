@@ -3,7 +3,7 @@ content_type: resource
 description: This presentation explains the programmed cell death, In-Situ end labeling,
   The effectiveness of Isel+ labeling,ISEL+ in the thymus, ISEL+ in the Retina, UV-induced
   apoptosis and ISEL+ validation Heat.
-file: /courses/9-18-developmental-neurobiology-spring-2005/0ec61c05ac432fe43788603eab84d2da_lec15_rein_blas.pdf
+file: /ol-ocw-studio-app/courses/9-18-developmental-neurobiology-spring-2005/0ec61c05ac432fe43788603eab84d2da_lec15_rein_blas.pdf
 file_size: 871609
 file_type: application/pdf
 learning_resource_types:
